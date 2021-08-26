@@ -74,10 +74,6 @@
     background: #E4405F; 
   }
   
-  .icon:nth-child(3) a:hover:before { 
-    background: #00AFF0; 
-  }
-  
   .icon:nth-child(4) a:hover:before { 
     background: #131418; 
   }
